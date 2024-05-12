@@ -30,7 +30,6 @@
                 android:textSize="18sp"
                 android:textStyle="bold"/>
 
-
             <ImageView
                 android:id="@+id/updateButton"
                 android:layout_width="24dp"
