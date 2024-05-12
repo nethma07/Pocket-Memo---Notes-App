@@ -1,2 +1,2 @@
-# TaskMinder - To Do App
+# Pocket Memo - Notes App
 In Android Studio using Kotlin
